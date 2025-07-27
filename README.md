@@ -11,8 +11,7 @@ My full name is Lê Vủ Tâm Vinh, but you can call me Koga. I'm currently a st
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinhkoo777&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vinhkoo777&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinhkoo777&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
 </p>
 
 # 🚩 CTF:
