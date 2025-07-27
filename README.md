@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Lê Vũ Tâm Vinh, but you can call me Koga or Vinhkoo. I'm currently a student at UEH (University of Economics Ho Chi Minh City) with a strong passion for cybersecurity. I love exploring, learning, and challenging myself through CTFs, write-ups, and anything related to information security. Looking forward to connecting with like-minded people!<br><br>
+Hi there! My name is Lê Vủ Tâm Vinh, but you can call me Koga or Vinhkoo. I'm currently a student at UEH (University of Economics Ho Chi Minh City) with a strong passion for cybersecurity. I love exploring, learning, and challenging myself through CTFs, write-ups, and anything related to information security. Looking forward to connecting with like-minded people!<br><br>
 
 
 ## 🌐 Socials:
