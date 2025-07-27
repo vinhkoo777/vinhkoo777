@@ -13,7 +13,7 @@ Hi there! My name is Lê Vủ Tâm Vinh, but you can call me Koga or Vinhkoo. I'
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkoo777&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🚩 CTF:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5077736" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/vinhkoocy777.png)](https://tryhackme.com/p/vinhkoocy777)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinhkoo777&icon=0&color=0)](https://visitcount.itsvg.in)
