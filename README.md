@@ -19,10 +19,6 @@ My full name is Lê Vủ Tâm Vinh, but you can call me Koga. I'm currently a st
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkoo777&theme=tokyonight&hide_border=false&layout=compact" width="50%" />
 </p>
 
-<!-- Ngôn ngữ đặt dưới riêng biệt -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=vinhkoo777&theme=tokyonight" />
-</div>
 
 # 🚩 CTF:
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/vinhkoocy777.png)](https://tryhackme.com/p/vinhkoocy777)
