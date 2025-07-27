@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tâm Vinh !
+<h1 align="center">👋 Hi, I'm Tâm Vinh !</h1>
 ---
 
 # 💫 About Me:
