@@ -9,9 +9,6 @@ SOC Analyst Intern • Blue Team Enthusiast • UEH Student
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0A66C2,50:1E90FF,100:00BFFF" width="70%"/>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
 </p>
 
