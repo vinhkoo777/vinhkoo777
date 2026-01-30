@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&height=30&lines=──────────────────────────────" />
 </p>
 
 ## 🌐 Connect With Me
