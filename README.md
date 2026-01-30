@@ -20,4 +20,7 @@ I focus on hands-on labs, blue team practices, and real-world SOC scenarios.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
+
+## 🧪 Hands-on SOC Training
+<script src="https://cyberdefenders.org/p/koga777/badge"></script>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
