@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=650&lines=SOC+Operations+%7C+Threat+Detection;Incident+Response+%7C+Blue+Team;Hands-on+Labs+%7C+Real-world+SOC+Scenarios" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -17,6 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
@@ -40,6 +42,7 @@
 ![HTTP/S](https://img.shields.io/badge/HTTP%2FS-555555?style=for-the-badge)
 
 ---
+
 ## 🧪 Hands-on SOC Training
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" width="300" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
