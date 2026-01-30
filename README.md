@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:0A66C2,50:1E90FF,100:00BFFF" width="100%"/>
 </p>
 
 ## 🌐 Connect With Me
