@@ -2,7 +2,7 @@
 
 ## 🪝 About Me
 
-My full name is **Lê Vũ Tâm Vinh**, but you can call me **Koga**.  
+My full name is **Lê Vủ Tâm Vinh**, but you can call me **Koga**.  
 I'm currently an **Information Security student at UEH** with a strong interest in **SOC operations, threat detection, and incident response**.  
 
 I focus on hands-on labs, blue team practices, and real-world SOC scenarios.
