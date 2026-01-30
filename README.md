@@ -22,5 +22,5 @@ I focus on hands-on labs, blue team practices, and real-world SOC scenarios.
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
 
 ## 🧪 Hands-on SOC Training
-<script src="https://cyberdefenders.org/p/koga777/badge"></script>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" width="300" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
