@@ -1,18 +1,23 @@
-<h1>Hi, I'm Koga</h1>
+<h1 align="left">Hi, I'm Koga</h1>
 
-# 💫 About Me:
-My full name is Lê Vủ Tâm Vinh, but you can call me Koga. I'm currently a student at UEH (University of Economics Ho Chi Minh City) with a strong passion for cybersecurity. I love exploring, learning, and challenging myself through CTFs, write-ups, and anything related to information security. Looking forward to connecting with like-minded people!<br><br>
+## 🪝 About Me
 
-## 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tam.vinh.719027) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vin71_t) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MachineOutside9844) 
+My full name is **Lê Vũ Tâm Vinh**, but you can call me **Koga**.  
+I'm currently an **Information Security student at UEH** with a strong interest in **SOC operations, threat detection, and incident response**.  
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I focus on hands-on labs, blue team practices, and real-world SOC scenarios.
 
-# 🚩 CTF:
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/vinhkoocy777.png)](https://tryhackme.com/p/vinhkoocy777)
+## 🌐 Connect With Me
 
----
-[![](https://visitcount.itsvg.in/api?id=vinhkoo777&icon=0&color=0)](https://visitcount.itsvg.in)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
+## 💻 Tech Stack
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
