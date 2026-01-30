@@ -44,7 +44,7 @@ SOC Analyst Intern • Blue Team Enthusiast • UEH Student
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
-### 🌐 Networking (Basic – Honest)
+### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-555555?style=for-the-badge)
 ![HTTP/S](https://img.shields.io/badge/HTTP%2FS-555555?style=for-the-badge)
