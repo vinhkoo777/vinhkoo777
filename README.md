@@ -21,7 +21,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
+</p>
 
 ## 💻 Tech Stack
 ### 🖥️ Operating Systems
@@ -43,7 +45,9 @@
 ![DNS](https://img.shields.io/badge/DNS-555555?style=for-the-badge)
 ![HTTP/S](https://img.shields.io/badge/HTTP%2FS-555555?style=for-the-badge)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
+</p>
 
 ## 🧪 Hands-on SOC Training
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" width="300" />
