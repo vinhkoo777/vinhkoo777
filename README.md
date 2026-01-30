@@ -1,9 +1,16 @@
-<h1 align="center">Hi, I'm Koga</h1>
-<h3 align="center">SOC Analyst Intern | Blue Team Enthusiast | UEH Student</h3>
+<h1 align="center">Hi, I'm <span style="color:#1E90FF;">Koga</span></h1>
+
+<h3 align="center">
+SOC Analyst Intern • Blue Team Enthusiast • UEH Student
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=650&lines=SOC+Operations+%7C+Threat+Detection;Incident+Response+%7C+Blue+Team;Hands-on+Labs+%7C+Real-world+SOC+Scenarios" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=SOC+Operations;Threat+Detection;Incident+Response;Blue+Team+Security" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0A66C2,50:1E90FF,100:00BFFF" width="70%"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
 </p>
