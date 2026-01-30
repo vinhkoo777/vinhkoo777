@@ -45,5 +45,5 @@
 
 ## 🧪 Hands-on SOC Training
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" width="300" />
-[![LetsDefend SOC](https://img.shields.io/badge/LetsDefend-SOC_Path-101010?style=for-the-badge)](https://app.letsdefend.io/user/Koga777)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
