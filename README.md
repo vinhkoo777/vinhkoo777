@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=650&lines=SOC+Operations+%7C+Threat+Detection;Incident+Response+%7C+Blue+Team;Hands-on+Labs+%7C+Real-world+SOC+Scenarios" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&width=150%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&width=100%"/>
 
 ## 🌐 Connect With Me
 <p align="left">
