@@ -1,5 +1,11 @@
-<h1 align="left">Hi, I'm Koga</h1>
+<h1 align="center">Hi 👋, I'm Koga</h1>
+<h3 align="center">SOC Analyst Intern | Blue Team Enthusiast | UEH Student</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=650&lines=SOC+Operations+%7C+Threat+Detection;Incident+Response+%7C+Blue+Team;Hands-on+Labs+%7C+Real-world+SOC+Scenarios" />
+</p>
+
+---
 ## 🪝 About Me
 
 My full name is **Lê Vủ Tâm Vinh**, but you can call me **Koga**.  
