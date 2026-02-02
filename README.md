@@ -14,13 +14,13 @@ SOC Analyst Intern • Blue Team Enthusiast • UEH Student
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/t%C3%A2m-vinh-8178b5334/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/YOUR_FB" target="_blank">
+  <a href="https://www.facebook.com/tam.vinh.719027/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_IG" target="_blank">
+  <a href="https://www.instagram.com/vin71_t/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
