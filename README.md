@@ -5,7 +5,7 @@ I love Malware
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=SOC+Operations;Threat+Detection;Incident+Response;Blue+Team+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&width=600&lines=SOC+Analysis;Malware+Analysis;Incident+Response" />
 </p>
 
 <p align="center">
