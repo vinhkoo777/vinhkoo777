@@ -29,31 +29,8 @@ I love Malware
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
 </p>
 
-## 💻 Tech Stack
-### 🖥️ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-### 🔵 SOC & Blue Team Tools
-![SIEM](https://img.shields.io/badge/SIEM-2F4F4F?style=for-the-badge)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=for-the-badge)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Windows Logs](https://img.shields.io/badge/Windows_Event_Logs-444444?style=for-the-badge)
-### 📜 Scripting & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
-### 🌐 Networking
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-555555?style=for-the-badge)
-![HTTP/S](https://img.shields.io/badge/HTTP%2FS-555555?style=for-the-badge)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
-</p>
+![ConMeo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXpva2xzajJpM2wzNzk1ZDdueTBvdnBhajBzNnZteDBjb28xYnhjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytu2GUYbvhz7zShGwS/giphy.gif)
 
 ## 🧪 Hands-on SOC Training
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" width="300" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
