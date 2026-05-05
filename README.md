@@ -9,5 +9,5 @@ I love Malware
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1E90FF,100:00CED1" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://media4.giphy.com/media/UiG9VNz3CXuPHmIHZP/giphy.gif" />
+  <img src="https://media4.giphy.com/media/UiG9VNz3CXuPHmIHZP/giphy.gif" width="100%"/>
 </p>
