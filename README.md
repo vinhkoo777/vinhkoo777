@@ -18,7 +18,7 @@
 
 ## About Me
 
-Second-year Information Security student focused on **SOC Analysis, SIEM Monitoring, Log Analysis, and Blue Team Operations**.
+Information Security student focused on **SOC Analysis, SIEM Monitoring, Log Analysis, and Blue Team Operations**.
 
 I enjoy building SOC labs, analyzing security events, investigating suspicious activity, and improving detection skills through hands-on practice.
 
