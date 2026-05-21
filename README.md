@@ -22,7 +22,7 @@ Second-year Information Security student focused on **SOC Analysis, SIEM Monitor
 
 I enjoy building SOC labs, analyzing security events, investigating suspicious activity, and improving detection skills through hands-on practice.
 
-## Learning & Practice
+## Learning And Practice
 
 <p align="center">
   <a href="https://app.letsdefend.io/user/Koga777">
