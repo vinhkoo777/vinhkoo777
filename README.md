@@ -24,13 +24,13 @@ I enjoy building SOC labs, analyzing security events, investigating suspicious a
 
 ## Learning And Practice
 
-<p align="center">
-  <a href="https://app.letsdefend.io/user/Koga777">
-    <img src="https://img.shields.io/badge/LetsDefend-Koga777-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white" height="40"/>
-  </a>
+<div align="left">
+  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" height="80" style="vertical-align:middle;"/>
   &nbsp;&nbsp;
-  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/koga777.png" height="80"/>
-</p>
+  <a href="https://app.letsdefend.io/user/Koga777">
+    <img src="https://img.shields.io/badge/LetsDefend-Koga777-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white" height="40" style="vertical-align:middle;"/>
+  </a>
+</div>
 
 ## Focus Areas
 
