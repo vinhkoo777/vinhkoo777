@@ -31,14 +31,3 @@ I enjoy building SOC labs, analyzing security events, investigating suspicious a
     <img src="https://img.shields.io/badge/LetsDefend-Koga777-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white" height="40" style="vertical-align:middle;"/>
   </a>
 </div>
-
-## Focus Areas
-
-- SOC Analysis
-- SIEM Monitoring
-- Log Analysis
-- Alert Triage
-- Threat Detection
-- Windows Event Analysis
-- IDS Monitoring
-- Blue Team Operations
